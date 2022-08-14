@@ -1,0 +1,11 @@
+8 Seg Display (38.10): 	https://www.digikey.com/en/products/detail/chromeled/CDSA15R1W/13166840
+	      (20.32):	https://www.digikey.com/en/products/detail/kingbright/SA08-11EWA/3084462
+Toggle Botton (SPST): 	https://www.digikey.com/en/products/detail/judco-manufacturing-inc/50-0015-00/307997
+	      (DPST):	https://www.digikey.com/en/products/detail/c-k/PVA1EEH11-2NV2/417713
+LED (15mcd):		https://www.digikey.com/en/products/detail/bivar-inc/SM1206HC/3095545
+    (4.5mcd):		https://www.digikey.com/en/products/detail/osram-opto-semiconductors-inc/LS-L29K-G1J2-1-Z/1227979
+Coin Cell Holder:	https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH800S/221549
+Coin Cell:		https://www.digikey.com/en/products/detail/murata-electronics/CR2025/9558424
+Resistor:		https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206JT150R/1757485
+Toggle Switches:	https://www.digikey.com/en/products/detail/nkk-switches/B13JB/4507647
+PCB Connector:		https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/613010143121/2508632

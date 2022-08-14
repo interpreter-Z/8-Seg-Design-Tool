@@ -1,0 +1,20 @@
+Source:,D:\SPTS_A\MyWorks\KiCad\8 Seg Design Tool\8 Seg Design Tool\8 Seg Design Tool.kicad_sch,,,,,,,,,
+Date:,6/13/2022 00:46,,,,,,,,,
+Tool:,Eeschema (6.0.0),,,,,,,,,
+Generator:,D:\SPTS_B\Applications\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,,,
+Component Count:,29,,,,,,,,,
+,,,,,,,,,,
+Collated Components:,,,,,,,,,,
+,,,,,,,,,,
+Num Duplicates,2,,,,,(At 1 Dup),,(At Dup Qty),,
+Item,Qty,Dup Qty,Reference(s),Value,MPN,Unit Price,Total Price,Unit Price,Total Price,URL
+1,1,2,BT1,BH800S,BH800S,$1.41 ,$1.41 ,$1.41 ,$2.82 ,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH800S/221549
+2,8,16,"D1, D2, D3, D4, D5, D6, D7, D8",RED,LS L29K-G1J2-1-Z,$0.41 ,$3.28 ,$0.32 ,$5.14 ,https://www.digikey.com/en/products/detail/osram-opto-semiconductors-inc/LS-L29K-G1J2-1-Z/1227979
+3,1,2,J1,Conn_01x10,6.1301E+11,$0.95 ,$0.95 ,$0.95 ,$1.90 ,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/613010143121/2508632
+4,8,16,"R1, R2, R3, R4, R5, R6, R7, R8",150,RMCF1206JT150R,$0.10 ,$0.80 ,$0.03 ,$0.45 ,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206JT150R/1757485
+5,8,16,"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",SW_DPST_x2,PVA1EEH11.2NV2,$1.65 ,$13.20 ,$1.48 ,$23.63 ,https://www.digikey.com/en/products/detail/c-k/PVA1EEH11-2NV2/417713
+6,2,4,"SW9, SW10",B13JB,B13JB,$4.92 ,$9.84 ,$4.92 ,$19.68 ,https://www.digikey.com/en/products/detail/nkk-switches/B13JB/4507647
+7,1,2,U1,SA08-11EWA,CDSA15R1W,$2.98 ,$2.98 ,$2.98 ,$5.96 ,https://www.digikey.com/en/products/detail/chromeled/CDSA15R1W/13166840
+8,1,10,-,-,CR2025,$0.32 ,$0.32 ,$0.26 ,$2.64 ,https://www.digikey.com/en/products/detail/murata-electronics/CR2025/9558424
+,,,,,,,,,,
+,,,,,,Total:,$32.78 ,Total:,$62.22 ,
